@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NovaHelper</id>
+    <version>1.0.0</version>
+    <authors>Sahranur ER</authors>
+    <description>Entity Framework example is a working library</description>
+    <copyright>CopyRight 2023</copyright>
+    <dependencies>
+      <group targetFramework="net5.0">
+        <dependency id="EPPlus" version="6.2.8" exclude="Build,Analyzers" />
+        <dependency id="EntityFramework" version="6.4.4" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.1.1" exclude="Build,Analyzers" />
+        <dependency id="MySql.Data" version="8.1.0" exclude="Build,Analyzers" />
+        <dependency id="TypeSupport" version="1.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net5.0/electron_framework_icon_137669.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.runtimeconfig.json" target="lib\net5.0\NovaHelper.runtimeconfig.json" />
+    <file src="D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.dll" target="lib\net5.0\NovaHelper.dll" />
+    <file src="D:\Projects\NovaHelper\NovaHelper\electron_framework_icon_137669.ico" target="content\electron_framework_icon_137669.ico" />
+    <file src="D:\Projects\NovaHelper\NovaHelper\electron_framework_icon_137669.ico" target="contentFiles\any\net5.0\electron_framework_icon_137669.ico" />
+  </files>
+</package>

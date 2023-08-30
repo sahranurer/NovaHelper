@@ -1,0 +1,15 @@
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.csproj.AssemblyReference.cache
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.AssemblyInfoInputs.cache
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.AssemblyInfo.cs
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.csproj.CoreCompileInputs.cache
+D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.deps.json
+D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.runtimeconfig.json
+D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.runtimeconfig.dev.json
+D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.dll
+D:\Projects\NovaHelper\NovaHelper\bin\Debug\net5.0\NovaHelper.pdb
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.dll
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\refint\NovaHelper.dll
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.pdb
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\NovaHelper.genruntimeconfig.cache
+D:\Projects\NovaHelper\NovaHelper\obj\Debug\net5.0\ref\NovaHelper.dll

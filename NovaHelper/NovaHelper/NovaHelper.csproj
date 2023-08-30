@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Company>$(Authorsa)</Company>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Sahranur ER</Authors>
+    <Description>Entity Framework example is a working library</Description>
+    <Copyright>CopyRight 2023</Copyright>
+    <ApplicationIcon>electron_framework_icon_137669.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="electron_framework_icon_137669.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+    <PackageReference Include="EPPlus" Version="6.2.8" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="MySql.Data" Version="8.1.0" />
+    <PackageReference Include="TypeSupport" Version="1.2.0" />
+  </ItemGroup>
+
+</Project>
